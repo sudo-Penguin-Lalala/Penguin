@@ -128,4 +128,4 @@ Give spirit to the developer, no matter how many donations given will still be a
 
 ## Licence
 All **[Penguin](https://github.com/sudo-Penguin-Lalala/Penguin)** source code is licensed under the GNU General Public License v3. Please [see](https://www.gnu.org/licenses) the original document for more details.
-
+## Credit: hxAri
